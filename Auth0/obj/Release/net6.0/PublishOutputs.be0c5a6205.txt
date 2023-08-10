@@ -1,0 +1,16 @@
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Auth0.exe
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Auth0.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Auth0.deps.json
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Auth0.runtimeconfig.json
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Auth0.pdb
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Auth0.AspNetCore.Authentication.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+C:\Users\eliwe\OneDrive\Documents\ASP\Auth0\Auth0\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
